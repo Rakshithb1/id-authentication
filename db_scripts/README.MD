@@ -1,12 +1,12 @@
 ## MOSIP ID Authentication Database (mosip_ida) scripts inventory and deployment guidelines on postgresql database. 
 
-#### The details disclosed below gives a clear information on complete database script structure with the instructions for database scripts deployments.
+#### The details disclosed below gibmbmnbves a clear information on complete database script structure with the instructions for database scripts deployments.
 
 ## Prerequisities
 
-* DB Server and access details
+* DB Server and access detailsb nb 
 
-* Postgres client (psql) has to be installed on the deployment servers.
+* Postgres client (psql) has to be installe    b bd on the deployment servers.
 
 * Copy latest database scripts(DDL, DML, .SH ... etc) from git/repository on to the DB deployment server.
 
