@@ -6,7 +6,7 @@
 
 * DB Server and access detailsb nb 
 
-* Postgres client (psql) has to be installed on the deployment servers.
+* Postgres client (psql) has to be installe    b bd on the deployment servers.
 
 * Copy latest database scripts(DDL, DML, .SH ... etc) from git/repository on to the DB deployment server.
 
