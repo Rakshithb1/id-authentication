@@ -5,7 +5,7 @@ List of authentication types supported by MOSIP are -
 1. OTP Authentication
 2. Demographic Authentication
 3. Biometric Authentication (includes Fingerprint, IRIS and Face)
-
+vb mn mn 
 Refer wiki page for [ID Authentication API](https://github.com/mosip/mosip-docs/wiki/ID-Authentication-API)   
 
 
