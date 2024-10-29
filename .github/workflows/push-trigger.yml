@@ -3,7 +3,7 @@ name: Maven Package upon a push
 on:
   release:
     types: [published]
-  pull_request:
+  pull_request_target:
     types: [opened, reopened, synchronize]
   workflow_dispatch:
     inputs:
