@@ -4,7 +4,7 @@
 
 ## Prerequisities
 
-* DB Server and access details
+* DB Server and access detailsb nb 
 
 * Postgres client (psql) has to be installed on the deployment servers.
 
